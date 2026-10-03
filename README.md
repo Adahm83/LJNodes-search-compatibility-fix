@@ -13,6 +13,8 @@ The original `js/ui_helpers.js` is backed up beside the installed helper as `ui_
 
 #### Installation and usage:
 
+Download [ui_helpers.zip from the latest release](https://github.com/Adahm83/LJNodes-search-compatibility-fix/releases/latest/download/ui_helpers.zip). Use this installation archive, not GitHub's automatically generated source-code archives.
+
 Unpack files to: `ComfyUI-LJNodes/js/`, overwrite existing file.
 
 After installation, save the current workflow and refresh the ComfyUI page with **Ctrl+F5**. No backend restart is needed for this JavaScript-only repair. Choose `default` under Node search box implementation to use the new popup; it already focuses its search field when opened.
